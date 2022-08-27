@@ -1,6 +1,6 @@
 <?php
 
-namespace chriskacerguis\RestServer;
+namespace imshwetank\RestServer;
 
 use Exception;
 use RecursiveArrayIterator;
@@ -13,7 +13,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
  * CodeIgniter Rest Controller
  * A fully RESTful server implementation for CodeIgniter using one library, one config file and one controller.
  *
- * @link            https://github.com/chriskacerguis/codeigniter-restserver
+ * @link            https://github.com/imshwetank/files-codeigniter-for-rest-api
  *
  * @version         4.0.0
  */
