@@ -126,7 +126,7 @@ $config['rest_auth'] = false;
 | Note: If 'rest_auth' is set to 'session' then change 'auth_source' to the name of the session variable
 |
 */
-$config['auth_source'] = '';
+$config['auth_source'] = 'ldap';
 
 /*
 |--------------------------------------------------------------------------
