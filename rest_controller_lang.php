@@ -1,7 +1,7 @@
 <?php
 
 /*
- * English language
+ * English language past on english language folder
  */
 
 $lang['text_rest_invalid_api_key'] = 'Invalid API key %s'; // %s is the REST API key
