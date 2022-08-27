@@ -32,11 +32,6 @@ $config['auth_source'] = '';
 Now, Open POSTMAN Software and choose Authorization and select TYPE as Basic Auth and then provide your username and password as shown above.
 
 METHOD - 2:
-if you want to make API Key for each USERS to get the data from the API Call. Please watch out the Video, it is explained very clearly how it work:
-
-https://www.youtube.com/watch?v=0N6frAVa2GE&list=PLRheCL1cXHrtV_KV9eNobLJnXMtgQd_x0
-
-
 
 So, Let's get started to get data by interaction of Database:
 
