@@ -1,6 +1,6 @@
 <?php
 
-// namespace imshwetank\RestServer;
+ namespace imshwetank\RestServer;
 
 use Exception;
 
